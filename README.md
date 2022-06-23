@@ -1,2 +1,2 @@
 # SATFramework
-For items pertinent to the Security Awareness Training Framework
+For items pertinent to the Security Awareness Technical Framework
